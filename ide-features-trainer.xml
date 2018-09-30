@@ -1,0 +1,104 @@
+<application>
+  <component name="LangManager">
+    <option name="languageName" value="JAVA" />
+  </component>
+  <component name="LessonStateBase">
+    <option name="myMap">
+      <map>
+        <entry key="CodeAssistance.CodeFormatting" value="NOT_PASSED" />
+        <entry key="CodeAssistance.EditorCodingAssistance" value="NOT_PASSED" />
+        <entry key="CodeAssistance.ParameterInfo" value="NOT_PASSED" />
+        <entry key="CodeAssistance.QuickPopups" value="NOT_PASSED" />
+        <entry key="Completions.BasicCompletion" value="NOT_PASSED" />
+        <entry key="Completions.CompletionwithTab" value="NOT_PASSED" />
+        <entry key="Completions.SmartTypeCompletion" value="NOT_PASSED" />
+        <entry key="Completions.StatementCompletion" value="NOT_PASSED" />
+        <entry key="EditorBasics.Collapse" value="PASSED" />
+        <entry key="EditorBasics.CommentLine" value="PASSED" />
+        <entry key="EditorBasics.DeleteLine" value="PASSED" />
+        <entry key="EditorBasics.Duplicate" value="PASSED" />
+        <entry key="EditorBasics.Move" value="PASSED" />
+        <entry key="EditorBasics.MultipleSelections" value="PASSED" />
+        <entry key="EditorBasics.Selection" value="PASSED" />
+        <entry key="Navigation.Declaration/Implementation" value="NOT_PASSED" />
+        <entry key="Navigation.FileStructure" value="NOT_PASSED" />
+        <entry key="Navigation.JumptoSource" value="NOT_PASSED" />
+        <entry key="Navigation.Next/PreviousOccurrences" value="NOT_PASSED" />
+        <entry key="Refactorings.ExtractMethod" value="NOT_PASSED" />
+        <entry key="Refactorings.ExtractVariable/Field" value="NOT_PASSED" />
+        <entry key="Refactorings.RefactoringBasics" value="NOT_PASSED" />
+        <entry key="Refactorings.Rename" value="NOT_PASSED" />
+      </map>
+    </option>
+  </component>
+  <component name="StatisticBase">
+    <option name="persistedLessonId2State">
+      <map>
+        <entry key="Completions.BasicCompletion">
+          <value>
+            <StatisticData>
+              <option name="state" value="STARTED" />
+              <option name="timestamp" value="1536188978864" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="EditorBasics.Collapse">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="25157" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="EditorBasics.CommentLine">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="24889" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="EditorBasics.DeleteLine">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="5295" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="EditorBasics.Duplicate">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="14617" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="EditorBasics.Move">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="90487" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="EditorBasics.MultipleSelections">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="23785" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="EditorBasics.Selection">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="19713" />
+            </StatisticData>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>
