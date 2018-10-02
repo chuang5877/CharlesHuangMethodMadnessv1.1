@@ -16,4 +16,21 @@ public class CHuangLib {
         }
         System.out.println(out);
     }
+    public static void multiplicationTable(int b, int r){
+        String out="";
+        for(int n=0;n<=r;n++){
+            out+=(b*n)+",";
+        }
+        System.out.println(out);
+    }
+    public static int sumUpTo(int x){
+        int out=0;
+        for(int n=0;n<=x;n++){
+            out+=n;
+        }
+        return out;
+    }
+    public static int leastCommonMultiple(int a, int b, int c){
+
+    }
 }
