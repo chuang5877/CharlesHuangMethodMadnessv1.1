@@ -30,7 +30,16 @@ public class CHuangLib {
         }
         return out;
     }
-    public static int leastCommonMultiple(int a, int b, int c){
-
+    public static String dateStr(String str){
+        //error exit code 1
+        String out="";
+        for(int n=1;n<str.length()+1;n++){
+            if(str.substring(n,n+1)=="/"){
+                out+="-";
+            }else{
+                out+=str.substring(n,n+1);
+            }
+        }
+        return out;
     }
 }
