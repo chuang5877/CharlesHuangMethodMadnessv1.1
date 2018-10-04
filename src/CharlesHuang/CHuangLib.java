@@ -30,16 +30,16 @@ public class CHuangLib {
         }
         return out;
     }
-    public static String dateStr(String str){
-        //error exit code 1
-        String out="";
-        for(int n=1;n<str.length()+1;n++){
-            if(str.substring(n,n+1)=="/"){
-                out+="-";
-            }else{
-                out+=str.substring(n,n+1);
-            }
+    public static boolean isPalindrome(String str){
+        String rts=str.substring(str.length());
+        for(int n=str.length()-1;n>=0;n--){
+            rts+=str.substring(n,n+1);
         }
-        return out;
+        if(rts.equals(str)){
+            return true;
+        }else{
+            return false;
+        }
     }
+    
 }
