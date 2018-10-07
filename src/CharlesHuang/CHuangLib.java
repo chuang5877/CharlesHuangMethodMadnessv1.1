@@ -41,5 +41,12 @@ public class CHuangLib {
             return false;
         }
     }
+    public static String dateStr(String str){
+        String month=str.substring(0,2);
+        String date=str.substring(3,5);
+        String year=str.substring(6);
+        String out=month+"-"+date+"-"+year;
+        return out+'\n';
+    }
     
 }
